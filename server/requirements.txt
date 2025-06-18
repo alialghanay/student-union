@@ -48,7 +48,7 @@ sympy==1.13.1
 tinycss2==1.4.0
 tinyhtml5==2.0.0
 tokenizers==0.21.0
-torch==2.6.0
+torch==2.7.1
 torchvision==0.21.0
 tqdm==4.67.1
 transformers==4.48.0
